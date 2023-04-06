@@ -1,0 +1,31 @@
+/*Overall Web Page's Custom Changes*/
+
+body{
+    background-color: #d1e0f5d8;
+    color: rgb(79, 117, 223);
+}
+
+h1{
+    color: rgb(25, 77, 221);
+}
+
+.adverts{
+    position: sticky;
+}
+
+.section_A{
+    background-color: #8db2e9d8;
+}
+
+.section_B{
+    background-color: #c6d1e2ee;
+}
+
+footer{
+    background-color: #2076eed8;
+}
+
+.footer_section{
+    background-color:#5a97eed8;
+}
+
